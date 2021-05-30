@@ -1,5 +1,5 @@
 # Game-of-Life
-Implementation of John Conway's game of life in MS Fortran 5.1 and MSAM
+Implementation of John Conway's game of life in MS Fortran 5.1 and MASM
 
 I learned Fortran in 1991 when I was a student in university. At that time, I thought the assembly language was the most pupular language, because I heard the discussion from my classmates when I was in senior high school. I did not have a personal computer at that time, so I just read the book of assembly language and never try it on computer, due to I do not have any compiler. 
 During these years, the Winworld, old-dos.ru, vetusware.com... publish the old dos software freely. I have the chance to download the required compiler and material to learn and rewirte the game of life program, which I already implemented during 1992.
