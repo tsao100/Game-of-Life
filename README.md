@@ -10,4 +10,4 @@ The program can be controlled by mouse. The player can draw the life map by lefe
 
 The IDE environment is running in the DOSBOX virtual machine. All the required compiler I have zipped and put it in this repository.
 
-The video of the compile and game is shown in GameOfLife.mp4
+The video of the compile and game is shown in GameOfLife.mp4. Also can be seen in Youtube https://youtu.be/JLbLT61EvTE
